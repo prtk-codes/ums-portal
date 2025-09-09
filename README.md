@@ -18,12 +18,8 @@ It is part of the **University Management System (UMS)**, focusing on parent eng
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript (or React/Vue if used)  
-- **Backend:** Node.js / Express (or your choice: ASP.NET, Django, etc.)  
-- **Database:** MySQL / MongoDB  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js   
+- **Database:** MySQL 
 - **Authentication:** JWT / Session-based login  
-- **Hosting/Deployment:** (Heroku, Vercel, or local server)  
-
-```bash
-git clone https://github.com/your-username/ums-parents-portal.git
-cd ums
+- **Hosting/Deployment:** ( local server)  
